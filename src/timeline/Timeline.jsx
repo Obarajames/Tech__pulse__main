@@ -17,14 +17,14 @@ function Timeline() {
       postImage:
         "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
       likes: 432,
-      timestamp: "2d",
+      timestamp: "4w",
     },
     {
       user: "mariussss",
       postImage:
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       likes: 140,
-      timestamp: "2d",
+      timestamp: "3w",
     },
     {
       user: "James",
@@ -37,7 +37,7 @@ function Timeline() {
       user: "may",
       postImage:
         "https://images.unsplash.com/photo-1689164001188-fdd108d22bca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4OXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
-      likes: 180,
+      likes: 1806,
       timestamp: "6d",
     },
     {
@@ -45,7 +45,7 @@ function Timeline() {
       postImage:
         "https://images.unsplash.com/photo-1689151909407-89f198ed6a83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
       likes: 340,
-      timestamp: "9d",
+      timestamp: "1y",
     },
     {
       user: "manny",
@@ -73,7 +73,7 @@ function Timeline() {
       postImage:
         "https://images.unsplash.com/photo-1688499154085-307fdbf38d41?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
       likes: 7740,
-      timestamp: "8d",
+      timestamp: "2d",
     },
     {
       user: "kobee",
